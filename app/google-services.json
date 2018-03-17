@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "590776491374",
+    "firebase_url": "https://smarttaskmanager-e3d23.firebaseio.com",
+    "project_id": "smarttaskmanager-e3d23",
+    "storage_bucket": "smarttaskmanager-e3d23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590776491374:android:437de71db689a6d7",
+        "android_client_info": {
+          "package_name": "com.rajesh.smarttaskmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590776491374-tfvi30k5d6i0edn1ssklra3k3djjr96n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rajesh.smarttaskmanager",
+            "certificate_hash": "49aa6179fc6d31242806566b1ad642bb2b7f7410"
+          }
+        },
+        {
+          "client_id": "590776491374-34qd00lorb8oc5qin0ggrhs2e0li4c98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP4rLYnLxhL6KSpCb21nZinFxeoM8eGvM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590776491374-34qd00lorb8oc5qin0ggrhs2e0li4c98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

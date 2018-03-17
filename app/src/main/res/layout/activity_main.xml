@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.rajesh.smarttaskmanager.MainActivity">
+<!--<android.support.v7.widget.ActionBarOverlayLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content">-->
+
+<!--</android.support.v7.widget.ActionBarOverlayLayout>-->
+    <!--<EditText-->
+        <!--android:id="@+id/et_add_task"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:hint="@string/enter_your_text_here"/>-->
+
+<include layout="@layout/app_tool_bar"/>
+
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/fl_main_fragment"/>
+<!--</FrameLayout>-->
+    <!--<fragment-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="300dp"-->
+        <!--android:id="@+id/blank_fragment"-->
+        <!--android:name="com.rajesh.smarttaskmanager.BlankFragment"/>-->
+</android.support.constraint.ConstraintLayout>

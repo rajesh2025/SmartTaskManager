@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SmartTaskManager</string>
+    <string name="add_task">Add Task</string>
+    <string name="enter_your_text_here">Enter your text here.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Base fragment</string>
+    <string name="hello_Second_black_fragment">Hello Second blank fragment</string>
+    <string name="instructions">
+Place your fingertip on the Home button to verify your identity
+</string>
+    <string name="contact_name">Contact name</string>
+    <string name="contact_number">Contact Number</string>
+</resources>
